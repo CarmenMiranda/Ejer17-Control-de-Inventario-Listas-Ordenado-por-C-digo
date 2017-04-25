@@ -1,0 +1,18 @@
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.exe.config
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.exe
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.pdb
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17__InventarioListasOrdenado.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17__InventarioListasOrdenado.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.csproj.GenerateResource.Cache
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.exe
+E:\Estructura de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.exe.config
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\bin\Debug\Ejer17- InventarioListasOrdenado.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17__InventarioListasOrdenado.Form1.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17__InventarioListasOrdenado.Properties.Resources.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer17- InventarioListasOrdenado\Ejer17- InventarioListasOrdenado\obj\Debug\Ejer17- InventarioListasOrdenado.csproj.GenerateResource.Cache
